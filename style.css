@@ -1,0 +1,29 @@
+img{
+    width: 150px;
+}
+body{
+    background-color: rgb(156, 10, 156);
+    font-family: 'Chokokutai', cursive;
+}
+button{
+    border-radius: 20px;
+    background: linear-gradient(darkturquoise, darkblue);
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+}
+input{
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    border-color: red;
+    background-color: rgb(179, 37, 37);
+    color: beige;
+}
+.IS{
+    border-color: rgb(3, 235, 3);
+    border-radius: 20px;
+    border-width: 10px;
+    border-style: dashed;
+    width: 500px;
+}
